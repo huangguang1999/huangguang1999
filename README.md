@@ -29,16 +29,64 @@ _芝蘭生於深林，不以無人而不芳_
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=huangguang1999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangguang1999&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![Followers](https://img.shields.io/github/followers/huangguang1999?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=70a5fd)](https://github.com/huangguang1999)
+[![Stars](https://img.shields.io/github/stars/huangguang1999?style=for-the-badge&logo=github&label=Stars&labelColor=1a1b27&color=bb9af7)](https://github.com/huangguang1999)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/huangguang1999&query=public_repos&style=for-the-badge&logo=github&label=Repos&labelColor=1a1b27&color=ff9e64)](https://github.com/huangguang1999?tab=repositories)
+
+<img height="180" src="https://streak-stats.demolab.com/?user=huangguang1999&theme=tokyonight&hide_border=true&date_format=Y/n/j" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=huangguang1999&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&line=70a5fd&point=bb9af7&color=c0caf5" />
 
 </div>
 
 ### 📌 精选项目
 
-| 项目 | 描述 |
-| :--- | :--- |
-| 🛠 [**agent-cli-guide**](https://github.com/huangguang1999/agent-cli-guide) | Claude Code 使用指南与最佳实践 |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛠 [**ccstatusline-zh**](https://github.com/huangguang1999/ccstatusline-zh)
+
+ccstatusline 的中文汉化版 — Claude Code CLI 可定制状态栏格式化工具
+
+![Stars](https://img.shields.io/github/stars/huangguang1999/ccstatusline-zh?style=flat-square&labelColor=1a1b27&color=bb9af7)
+![Language](https://img.shields.io/github/languages/top/huangguang1999/ccstatusline-zh?style=flat-square&labelColor=1a1b27)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 [**agent-cli-guide**](https://github.com/huangguang1999/agent-cli-guide)
+
+Claude Code 使用指南与最佳实践
+
+![Stars](https://img.shields.io/github/stars/huangguang1999/agent-cli-guide?style=flat-square&labelColor=1a1b27&color=bb9af7)
+![Language](https://img.shields.io/github/languages/top/huangguang1999/agent-cli-guide?style=flat-square&labelColor=1a1b27)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐾 [**claude-pokemon**](https://github.com/huangguang1999/claude-pokemon)
+
+macOS 灵动岛的宝可梦伴侣 · for Claude Code
+
+![Stars](https://img.shields.io/github/stars/huangguang1999/claude-pokemon?style=flat-square&labelColor=1a1b27&color=bb9af7)
+![Language](https://img.shields.io/github/languages/top/huangguang1999/claude-pokemon?style=flat-square&labelColor=1a1b27)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📖 [**how2learn-vuepress**](https://github.com/huangguang1999/how2learn-vuepress)
+
+学习博客 — 授人以鱼不如授人以渔
+
+![Stars](https://img.shields.io/github/stars/huangguang1999/how2learn-vuepress?style=flat-square&labelColor=1a1b27&color=bb9af7)
+![Language](https://img.shields.io/github/languages/top/huangguang1999/how2learn-vuepress?style=flat-square&labelColor=1a1b27)
+
+</td>
+</tr>
+</table>
 
 ---
 
