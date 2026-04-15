@@ -49,8 +49,8 @@ _芝蘭生於深林，不以無人而不芳_
 
 ccstatusline 的中文汉化版 — Claude Code CLI 可定制状态栏格式化工具
 
-![Stars](https://img.shields.io/github/stars/huangguang1999/ccstatusline-zh?style=flat-square&labelColor=1a1b27&color=bb9af7)
-![Language](https://img.shields.io/github/languages/top/huangguang1999/ccstatusline-zh?style=flat-square&labelColor=1a1b27)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/huangguang1999/ccstatusline-zh&query=stargazers_count&label=%E2%98%85&style=flat-square&labelColor=1a1b27&color=bb9af7)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -59,8 +59,8 @@ ccstatusline 的中文汉化版 — Claude Code CLI 可定制状态栏格式化�
 
 Claude Code 使用指南与最佳实践
 
-![Stars](https://img.shields.io/github/stars/huangguang1999/agent-cli-guide?style=flat-square&labelColor=1a1b27&color=bb9af7)
-![Language](https://img.shields.io/github/languages/top/huangguang1999/agent-cli-guide?style=flat-square&labelColor=1a1b27)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/huangguang1999/agent-cli-guide&query=stargazers_count&label=%E2%98%85&style=flat-square&labelColor=1a1b27&color=bb9af7)
+![Docs](https://img.shields.io/badge/Docs-1a1b27?style=flat-square&logo=readthedocs&logoColor=70a5fd)
 
 </td>
 </tr>
@@ -71,8 +71,8 @@ Claude Code 使用指南与最佳实践
 
 macOS 灵动岛的宝可梦伴侣 · for Claude Code
 
-![Stars](https://img.shields.io/github/stars/huangguang1999/claude-pokemon?style=flat-square&labelColor=1a1b27&color=bb9af7)
-![Language](https://img.shields.io/github/languages/top/huangguang1999/claude-pokemon?style=flat-square&labelColor=1a1b27)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/huangguang1999/claude-pokemon&query=stargazers_count&label=%E2%98%85&style=flat-square&labelColor=1a1b27&color=bb9af7)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -81,8 +81,8 @@ macOS 灵动岛的宝可梦伴侣 · for Claude Code
 
 学习博客 — 授人以鱼不如授人以渔
 
-![Stars](https://img.shields.io/github/stars/huangguang1999/how2learn-vuepress?style=flat-square&labelColor=1a1b27&color=bb9af7)
-![Language](https://img.shields.io/github/languages/top/huangguang1999/how2learn-vuepress?style=flat-square&labelColor=1a1b27)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/huangguang1999/how2learn-vuepress&query=stargazers_count&label=%E2%98%85&style=flat-square&labelColor=1a1b27&color=bb9af7)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 </td>
 </tr>
