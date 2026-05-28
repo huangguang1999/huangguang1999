@@ -6,7 +6,7 @@
 
 <h3 align="center">welcome to my profile (=˘ω˘=) zzz</h3>
 
-<p align="center">字节跳动工程师 · 写 TypeScript 和 Go · 沉迷 AI Agent 与命令行工具～☆</p>
+<p align="center">努力全栈工程师 · TypeScript+Go · 沉迷 AI Coding～☆</p>
 
 <p align="center">
   <strong><a href="mailto:huangguang1999@163.com">Email</a></strong> |
