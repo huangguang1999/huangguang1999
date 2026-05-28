@@ -17,14 +17,19 @@
 
 <h3 align="center">projects ✨</h3>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/huangguang1999/ccstatusline-zh"><b>ccstatusline-zh</b></a>
   <a href="https://github.com/huangguang1999/ccstatusline-zh"><img src="https://img.shields.io/github/stars/huangguang1999/ccstatusline-zh?style=flat-square&label=%E2%98%85&color=FBBF24&labelColor=24292F" alt="stars"></a>
   <br>
-  <sub>Claude Code 状态栏汉化版 · 可定制状态栏格式化工具</sub>
-  <br><br>
+  <sub>Claude Code 状态栏汉化版</sub>
+</td>
+<td align="center" width="50%">
   <a href="https://github.com/huangguang1999/pixel-agents"><b>pixel-agents</b></a>
   <a href="https://github.com/huangguang1999/pixel-agents"><img src="https://img.shields.io/github/stars/huangguang1999/pixel-agents?style=flat-square&label=%E2%98%85&color=FBBF24&labelColor=24292F" alt="stars"></a>
   <br>
   <sub>把 AI agent 会话变成像素办公室里的小人</sub>
-</p>
+</td>
+</tr>
+</table>
